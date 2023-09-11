@@ -1,6 +1,6 @@
 {
   "name": "poefilterx",
-  "version": "3.19.3",
+  "version": "3.22.0",
   "description": "PoeFilterX NPM Wrapper",
   "main": "main.js",
   "bin": {
